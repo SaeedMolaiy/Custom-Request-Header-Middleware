@@ -1,4 +1,4 @@
-﻿namespace AuthMiddleware.Middlewares;
+﻿namespace CustomHeader.Middlewares;
 
 public class AddCustomRequestHeaderMiddleware
 {
